@@ -1,0 +1,1 @@
+Our paper, **Efficient Spatially Structured Adaptation of Vision Foundation Models for Universal Binary Segmentation**, is currently under review. The code will be released upon acceptance, and we will continue to maintain and update this repository.
